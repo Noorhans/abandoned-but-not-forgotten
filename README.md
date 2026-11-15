@@ -51,3 +51,13 @@ After you edit, paste the updated `HARDWARE` array back into `index.html`. Each 
 - [ ] Ideas to add: Arabic translation, side-by-side LROC "then & now" photos, more objects (Surveyor 5/6/7, ALSEP stations, Mars heat shields)
 
 Image credits: NASA (public domain). LROC images: NASA/GSFC/Arizona State University. HiRISE images: NASA/JPL-Caltech/University of Arizona.
+
+## Use of AI
+
+This project was built with the help of Claude (Anthropic), an AI assistant (large language model). Claude helped write the app's code (HTML, CSS and JavaScript, including the map, timeline, quiz and language-switching logic), drafted the English stories, facts and quizzes, translated them into Kurdish (Sorani), and helped design the presentation slides.
+
+Our team chose the challenge, the concept and the audience, selected which NASA hardware to feature, reviewed the facts against NASA sources, proofread the Kurdish, and tested and presented the app.
+
+No AI-generated photos, video or audio are used. All photos come from the NASA Image and Video Library. The small decorative graphics (the app logo and the offline fallback map) are simple shapes drawn by AI-assisted code.
+
+Team: Noorhan Salah, Vare Latif, Vana Salam, Solin Sirwan, Elyan Bashir.
